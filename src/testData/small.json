@@ -14,7 +14,7 @@
         {
             "tagName": "html",
             "depth": 3,
-            "childTagNames": "<head>, <body>",
+            "childTagNames": "head, body",
             "attributes": {
                 "lang": "en"
             }
@@ -22,7 +22,7 @@
         {
             "tagName": "head",
             "depth": 1,
-            "childTagNames": "<meta>, <title>",
+            "childTagNames": "meta, title",
             "attributes": {}
         },
         {
@@ -42,7 +42,7 @@
         {
             "tagName": "body",
             "depth": 2,
-            "childTagNames": "<h1>, <p>, <ul>",
+            "childTagNames": "h1, p, ul",
             "attributes": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "tagName": "ul",
             "depth": 1,
-            "childTagNames": "<li>, <li>, <li>",
+            "childTagNames": "li, li, li",
             "attributes": {}
         },
         {

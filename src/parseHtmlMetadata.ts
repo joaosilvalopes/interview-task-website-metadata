@@ -28,7 +28,7 @@ function parseHtmlMetadata(html: string) {
     out.tagDetails.push({
       tagName,
       depth: getTreeDepth(element),
-      childTagNames: Array.from(element.children).map((child) => `<${child.tagName.toLowerCase()}>`).join(', '),
+      childTagNames: Array.from(element.children).map((child) => child.tagName.toLowerCase()).join(', '),
       attributes: Array.from(element.attributes).reduce((acc, { name, value }) => ({ ...acc, [name]: value }), {}),
     });
   };

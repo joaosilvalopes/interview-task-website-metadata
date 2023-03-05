@@ -21,13 +21,13 @@
         {
             "tagName": "html",
             "depth": 6,
-            "childTagNames": "<head>, <body>",
+            "childTagNames": "head, body",
             "attributes": {}
         },
         {
             "tagName": "head",
             "depth": 1,
-            "childTagNames": "<title>, <meta>, <meta>",
+            "childTagNames": "title, meta, meta",
             "attributes": {}
         },
         {
@@ -51,13 +51,13 @@
         {
             "tagName": "body",
             "depth": 5,
-            "childTagNames": "<header>, <main>, <footer>",
+            "childTagNames": "header, main, footer",
             "attributes": {}
         },
         {
             "tagName": "header",
             "depth": 4,
-            "childTagNames": "<h1>, <nav>",
+            "childTagNames": "h1, nav",
             "attributes": {}
         },
         {
@@ -69,31 +69,19 @@
         {
             "tagName": "nav",
             "depth": 3,
-            "childTagNames": "<ul>",
+            "childTagNames": "ul",
             "attributes": {}
         },
         {
             "tagName": "ul",
             "depth": 2,
-            "childTagNames": "<li>, <li>, <li>",
+            "childTagNames": "li, li, li",
             "attributes": {}
         },
         {
             "tagName": "li",
             "depth": 1,
-            "childTagNames": "<a>",
-            "attributes": {}
-        },
-        {
-            "tagName": "a",
-            "depth": 0,
-            "childTagNames": "",
-            "attributes": { "href": "#" }
-        },
-        {
-            "tagName": "li",
-            "depth": 1,
-            "childTagNames": "<a>",
+            "childTagNames": "a",
             "attributes": {}
         },
         {
@@ -105,7 +93,19 @@
         {
             "tagName": "li",
             "depth": 1,
-            "childTagNames": "<a>",
+            "childTagNames": "a",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "a",
             "attributes": {}
         },
         {
@@ -117,13 +117,13 @@
         {
             "tagName": "main",
             "depth": 4,
-            "childTagNames": "<section>, <section>",
+            "childTagNames": "section, section",
             "attributes": {}
         },
         {
             "tagName": "section",
             "depth": 1,
-            "childTagNames": "<h2>, <p>",
+            "childTagNames": "h2, p",
             "attributes": {}
         },
         {
@@ -141,7 +141,7 @@
         {
             "tagName": "section",
             "depth": 3,
-            "childTagNames": "<h2>, <ul>",
+            "childTagNames": "h2, ul",
             "attributes": {}
         },
         {
@@ -153,25 +153,13 @@
         {
             "tagName": "ul",
             "depth": 2,
-            "childTagNames": "<li>, <li>, <li>",
+            "childTagNames": "li, li, li",
             "attributes": {}
         },
         {
             "tagName": "li",
             "depth": 1,
-            "childTagNames": "<a>",
-            "attributes": {}
-        },
-        {
-            "tagName": "a",
-            "depth": 0,
-            "childTagNames": "",
-            "attributes": { "href": "#" }
-        },
-        {
-            "tagName": "li",
-            "depth": 1,
-            "childTagNames": "<a>",
+            "childTagNames": "a",
             "attributes": {}
         },
         {
@@ -183,7 +171,19 @@
         {
             "tagName": "li",
             "depth": 1,
-            "childTagNames": "<a>",
+            "childTagNames": "a",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "a",
             "attributes": {}
         },
         {
@@ -195,7 +195,7 @@
         {
             "tagName": "footer",
             "depth": 1,
-            "childTagNames": "<p>",
+            "childTagNames": "p",
             "attributes": {}
         },
         {
