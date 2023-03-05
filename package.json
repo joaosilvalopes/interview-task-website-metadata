@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "jest",
-    "build": "webpack --mode=production --node-env=production && echo \"#! /usr/bin/env node\n$(cat ./bin/main.js)\" > ./bin/main.js"
+    "build": "webpack --mode=production --node-env=production && node ./addBang.js"
   },
   "bin": {
     "parsewebsitemetadata": "./bin/main.js"
