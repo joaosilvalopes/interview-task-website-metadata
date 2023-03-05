@@ -1,0 +1,4041 @@
+{
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "meta": 2,
+        "title": 1,
+        "body": 1,
+        "div": 21,
+        "header": 27,
+        "h1": 6,
+        "p": 84,
+        "nav": 1,
+        "ul": 11,
+        "li": 68,
+        "a": 68,
+        "main": 1,
+        "section": 3,
+        "article": 23,
+        "h2": 24,
+        "h3": 8,
+        "h4": 1,
+        "h5": 1,
+        "h6": 1,
+        "footer": 24,
+        "blockquote": 2,
+        "cite": 3,
+        "dl": 1,
+        "dt": 1,
+        "dd": 1,
+        "ol": 5,
+        "details": 1,
+        "summary": 1,
+        "address": 1,
+        "br": 4,
+        "hr": 1,
+        "table": 1,
+        "caption": 1,
+        "thead": 1,
+        "tr": 6,
+        "th": 10,
+        "tfoot": 1,
+        "tbody": 1,
+        "td": 20,
+        "strong": 4,
+        "kbd": 1,
+        "code": 9,
+        "samp": 1,
+        "pre": 1,
+        "em": 1,
+        "b": 1,
+        "i": 1,
+        "u": 1,
+        "del": 1,
+        "ins": 1,
+        "s": 1,
+        "sup": 1,
+        "sub": 1,
+        "small": 1,
+        "abbr": 1,
+        "q": 1,
+        "dfn": 1,
+        "mark": 1,
+        "var": 3,
+        "time": 1,
+        "img": 4,
+        "figure": 3,
+        "figcaption": 1,
+        "picture": 1,
+        "source": 1,
+        "audio": 1,
+        "video": 1,
+        "canvas": 1,
+        "meter": 1,
+        "progress": 1,
+        "svg": 1,
+        "circle": 1,
+        "iframe": 1,
+        "embed": 1,
+        "object": 1,
+        "form": 1,
+        "fieldset": 7,
+        "legend": 7,
+        "label": 26,
+        "input": 27,
+        "select": 2,
+        "optgroup": 2,
+        "option": 9,
+        "textarea": 1,
+        "datalist": 1,
+        "button": 4
+    },
+    "tagDetails": [
+        {
+            "tagName": "html",
+            "depth": 16,
+            "childTagNames": "<head>, <body>",
+            "attributes": {
+                "lang": "en"
+            }
+        },
+        {
+            "tagName": "head",
+            "depth": 1,
+            "childTagNames": "<meta>, <meta>, <title>",
+            "attributes": {}
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "charset": "utf-8"
+            }
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=1.0"
+            }
+        },
+        {
+            "tagName": "title",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "body",
+            "depth": 15,
+            "childTagNames": "<div>",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 14,
+            "childTagNames": "<header>, <nav>, <main>, <footer>",
+            "attributes": {
+                "id": "top",
+                "role": "document"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h1>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "nav",
+            "depth": 5,
+            "childTagNames": "<ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 4,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 3,
+            "childTagNames": "<a>, <ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text"
+            }
+        },
+        {
+            "tagName": "ul",
+            "depth": 2,
+            "childTagNames": "<li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__headings"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__paragraphs"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__lists"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__blockquotes"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__details"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__address"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__hr"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__tables"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__code"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__inline"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#text__comments"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 3,
+            "childTagNames": "<a>, <ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded"
+            }
+        },
+        {
+            "tagName": "ul",
+            "depth": 2,
+            "childTagNames": "<li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__images"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__bgimages"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__audio"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__video"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__canvas"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__meter"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__progress"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__svg"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__iframe"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__embed"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#embedded__object"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 3,
+            "childTagNames": "<a>, <ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms"
+            }
+        },
+        {
+            "tagName": "ul",
+            "depth": 2,
+            "childTagNames": "<li>, <li>, <li>, <li>, <li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__input"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__select"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__checkbox"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__radio"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__textareas"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__html5"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#forms__action"
+            }
+        },
+        {
+            "tagName": "main",
+            "depth": 13,
+            "childTagNames": "<section>, <section>, <section>",
+            "attributes": {}
+        },
+        {
+            "tagName": "section",
+            "depth": 12,
+            "childTagNames": "<header>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>",
+            "attributes": {
+                "id": "text"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h1>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__headings"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<h1>, <h2>, <h3>, <h4>, <h5>, <h6>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h3",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h4",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h5",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h6",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__paragraphs"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 4,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__blockquotes"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 3,
+            "childTagNames": "<blockquote>",
+            "attributes": {}
+        },
+        {
+            "tagName": "blockquote",
+            "depth": 2,
+            "childTagNames": "<p>, <p>, <cite>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "cite",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#!"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 11,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__lists"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 10,
+            "childTagNames": "<h3>, <dl>, <h3>, <ol>, <h3>, <ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h3",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "dl",
+            "depth": 1,
+            "childTagNames": "<dt>, <dd>",
+            "attributes": {}
+        },
+        {
+            "tagName": "dt",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "dd",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h3",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ol",
+            "depth": 9,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {
+                "type": "1"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 8,
+            "childTagNames": "<ol>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ol",
+            "depth": 7,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {
+                "type": "A"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 6,
+            "childTagNames": "<ol>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ol",
+            "depth": 5,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {
+                "type": "a"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 4,
+            "childTagNames": "<ol>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ol",
+            "depth": 3,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {
+                "type": "I"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<ol>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ol",
+            "depth": 1,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {
+                "type": "i"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h3",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 9,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 8,
+            "childTagNames": "<ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 7,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 6,
+            "childTagNames": "<ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 5,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 4,
+            "childTagNames": "<ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 3,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 1,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 4,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__blockquotes"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h1>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 3,
+            "childTagNames": "<blockquote>",
+            "attributes": {}
+        },
+        {
+            "tagName": "blockquote",
+            "depth": 2,
+            "childTagNames": "<p>, <p>, <cite>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "cite",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#!"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <details>, <footer>",
+            "attributes": {
+                "id": "text__details"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h1>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "details",
+            "depth": 1,
+            "childTagNames": "<summary>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "summary",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <address>, <footer>",
+            "attributes": {
+                "id": "text__address"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h1>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "address",
+            "depth": 1,
+            "childTagNames": "<a>, <br>, <br>, <br>, <br>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "mailto:webmaster@example.com"
+            }
+        },
+        {
+            "tagName": "br",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "br",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "br",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "br",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__hr"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<hr>",
+            "attributes": {}
+        },
+        {
+            "tagName": "hr",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 4,
+            "childTagNames": "<header>, <table>, <footer>",
+            "attributes": {
+                "id": "text__tables"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "table",
+            "depth": 3,
+            "childTagNames": "<caption>, <thead>, <tfoot>, <tbody>",
+            "attributes": {}
+        },
+        {
+            "tagName": "caption",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "thead",
+            "depth": 2,
+            "childTagNames": "<tr>",
+            "attributes": {}
+        },
+        {
+            "tagName": "tr",
+            "depth": 1,
+            "childTagNames": "<th>, <th>, <th>, <th>, <th>",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "tfoot",
+            "depth": 2,
+            "childTagNames": "<tr>",
+            "attributes": {}
+        },
+        {
+            "tagName": "tr",
+            "depth": 1,
+            "childTagNames": "<th>, <th>, <th>, <th>, <th>",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "th",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "tbody",
+            "depth": 2,
+            "childTagNames": "<tr>, <tr>, <tr>, <tr>",
+            "attributes": {}
+        },
+        {
+            "tagName": "tr",
+            "depth": 1,
+            "childTagNames": "<td>, <td>, <td>, <td>, <td>",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "tr",
+            "depth": 1,
+            "childTagNames": "<td>, <td>, <td>, <td>, <td>",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "tr",
+            "depth": 1,
+            "childTagNames": "<td>, <td>, <td>, <td>, <td>",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "tr",
+            "depth": 1,
+            "childTagNames": "<td>, <td>, <td>, <td>, <td>",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "td",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__code"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 2,
+            "childTagNames": "<p>, <p>, <p>, <h2>, <pre>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<strong>, <kbd>",
+            "attributes": {}
+        },
+        {
+            "tagName": "strong",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "kbd",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<strong>, <code>",
+            "attributes": {}
+        },
+        {
+            "tagName": "strong",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<strong>, <samp>",
+            "attributes": {}
+        },
+        {
+            "tagName": "strong",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "samp",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "pre",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__inline"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 2,
+            "childTagNames": "<p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#!"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<strong>",
+            "attributes": {}
+        },
+        {
+            "tagName": "strong",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<em>",
+            "attributes": {}
+        },
+        {
+            "tagName": "em",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<b>",
+            "attributes": {}
+        },
+        {
+            "tagName": "b",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<i>",
+            "attributes": {}
+        },
+        {
+            "tagName": "i",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<u>",
+            "attributes": {}
+        },
+        {
+            "tagName": "u",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<del>, <ins>",
+            "attributes": {}
+        },
+        {
+            "tagName": "del",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ins",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<s>",
+            "attributes": {}
+        },
+        {
+            "tagName": "s",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<sup>",
+            "attributes": {}
+        },
+        {
+            "tagName": "sup",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<sub>",
+            "attributes": {}
+        },
+        {
+            "tagName": "sub",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<small>",
+            "attributes": {}
+        },
+        {
+            "tagName": "small",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<abbr>",
+            "attributes": {}
+        },
+        {
+            "tagName": "abbr",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "title": "HyperText Markup Language"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<q>",
+            "attributes": {}
+        },
+        {
+            "tagName": "q",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "cite": "https://developer.mozilla.org/en-US/docs/HTML/Element/q"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<cite>",
+            "attributes": {}
+        },
+        {
+            "tagName": "cite",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<dfn>",
+            "attributes": {}
+        },
+        {
+            "tagName": "dfn",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<mark>",
+            "attributes": {}
+        },
+        {
+            "tagName": "mark",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<var>, <var>, <var>",
+            "attributes": {}
+        },
+        {
+            "tagName": "var",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "var",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "var",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<time>",
+            "attributes": {}
+        },
+        {
+            "tagName": "time",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "datetime": "2013-04-06T12:32+00:00"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "text__comments"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<p>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "section",
+            "depth": 5,
+            "childTagNames": "<header>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>, <article>",
+            "attributes": {
+                "id": "embedded"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "article",
+            "depth": 4,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__images"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 3,
+            "childTagNames": "<h3>, <p>, <h3>, <figure>, <h3>, <figure>, <h3>, <figure>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h3",
+            "depth": 1,
+            "childTagNames": "<code>",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<img>",
+            "attributes": {}
+        },
+        {
+            "tagName": "img",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "src": "https://placekitten.com/480/480",
+                "alt": "Photo of a kitten"
+            }
+        },
+        {
+            "tagName": "h3",
+            "depth": 1,
+            "childTagNames": "<code>, <code>",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "figure",
+            "depth": 1,
+            "childTagNames": "<img>",
+            "attributes": {}
+        },
+        {
+            "tagName": "img",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "src": "https://placekitten.com/420/420",
+                "alt": "Photo of a kitten"
+            }
+        },
+        {
+            "tagName": "h3",
+            "depth": 1,
+            "childTagNames": "<code>, <code>, <code>",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "figure",
+            "depth": 1,
+            "childTagNames": "<img>, <figcaption>",
+            "attributes": {}
+        },
+        {
+            "tagName": "img",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "src": "https://placekitten.com/420/420",
+                "alt": "Photo of a kitten"
+            }
+        },
+        {
+            "tagName": "figcaption",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "h3",
+            "depth": 1,
+            "childTagNames": "<code>, <code>",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "code",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "figure",
+            "depth": 2,
+            "childTagNames": "<picture>",
+            "attributes": {}
+        },
+        {
+            "tagName": "picture",
+            "depth": 1,
+            "childTagNames": "<source>, <img>",
+            "attributes": {}
+        },
+        {
+            "tagName": "source",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "srcset": "https://placekitten.com/800/800",
+                "media": "(min-width: 800px)"
+            }
+        },
+        {
+            "tagName": "img",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "src": "https://placekitten.com/420/420",
+                "alt": "Photo of a kitten"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__bgimages"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "style": "background-image:url('https://placekitten.com/300/300'); width:300px; height: 300px;"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__audio"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<audio>",
+            "attributes": {}
+        },
+        {
+            "tagName": "audio",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "controls": ""
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__video"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<video>",
+            "attributes": {}
+        },
+        {
+            "tagName": "video",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "controls": ""
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__canvas"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<canvas>",
+            "attributes": {}
+        },
+        {
+            "tagName": "canvas",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__meter"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<meter>",
+            "attributes": {}
+        },
+        {
+            "tagName": "meter",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "value": "2",
+                "min": "0",
+                "max": "10"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__progress"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<progress>",
+            "attributes": {}
+        },
+        {
+            "tagName": "progress",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__svg"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 2,
+            "childTagNames": "<svg>",
+            "attributes": {}
+        },
+        {
+            "tagName": "svg",
+            "depth": 1,
+            "childTagNames": "<circle>",
+            "attributes": {
+                "width": "100px",
+                "height": "100px"
+            }
+        },
+        {
+            "tagName": "circle",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "cx": "100",
+                "cy": "100",
+                "r": "100",
+                "fill": "#1fa3ec"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__iframe"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<iframe>",
+            "attributes": {}
+        },
+        {
+            "tagName": "iframe",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "src": "index.html",
+                "height": "300"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__embed"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<embed>",
+            "attributes": {}
+        },
+        {
+            "tagName": "embed",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "src": "index.html",
+                "height": "300"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "article",
+            "depth": 3,
+            "childTagNames": "<header>, <div>, <footer>",
+            "attributes": {
+                "id": "embedded__object"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 1,
+            "childTagNames": "<object>",
+            "attributes": {}
+        },
+        {
+            "tagName": "object",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "data": "index.html",
+                "height": "300"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "section",
+            "depth": 6,
+            "childTagNames": "<header>, <form>",
+            "attributes": {
+                "id": "forms"
+            }
+        },
+        {
+            "tagName": "header",
+            "depth": 1,
+            "childTagNames": "<h2>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "form",
+            "depth": 5,
+            "childTagNames": "<fieldset>, <p>, <fieldset>, <p>, <fieldset>, <p>, <fieldset>, <p>, <fieldset>, <p>, <fieldset>, <p>, <fieldset>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 2,
+            "childTagNames": "<legend>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>",
+            "attributes": {
+                "id": "forms__input"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__text"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__text",
+                "type": "text",
+                "placeholder": "Text Input"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__password"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__password",
+                "type": "password",
+                "placeholder": "Type your Password"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__webaddress"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__webaddress",
+                "type": "url",
+                "placeholder": "https://yoursite.com"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__emailaddress"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__emailaddress",
+                "type": "email",
+                "placeholder": "name@email.com"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__phone"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__phone",
+                "type": "tel",
+                "placeholder": "(999) 999-9999"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__search"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__search",
+                "type": "search",
+                "placeholder": "Enter Search Term"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__text2"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__text2",
+                "type": "number",
+                "placeholder": "Enter a Number"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "input__file"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "input__file",
+                "type": "file"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 4,
+            "childTagNames": "<legend>, <p>, <p>",
+            "attributes": {
+                "id": "forms__select"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 3,
+            "childTagNames": "<label>, <select>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "select"
+            }
+        },
+        {
+            "tagName": "select",
+            "depth": 2,
+            "childTagNames": "<optgroup>",
+            "attributes": {
+                "id": "select"
+            }
+        },
+        {
+            "tagName": "optgroup",
+            "depth": 1,
+            "childTagNames": "<option>, <option>, <option>",
+            "attributes": {
+                "label": "Option Group"
+            }
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 3,
+            "childTagNames": "<label>, <select>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "select_multiple"
+            }
+        },
+        {
+            "tagName": "select",
+            "depth": 2,
+            "childTagNames": "<optgroup>",
+            "attributes": {
+                "id": "select_multiple",
+                "multiple": "multiple"
+            }
+        },
+        {
+            "tagName": "optgroup",
+            "depth": 1,
+            "childTagNames": "<option>, <option>, <option>",
+            "attributes": {
+                "label": "Option Group"
+            }
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 4,
+            "childTagNames": "<legend>, <ul>",
+            "attributes": {
+                "id": "forms__checkbox"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 3,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<label>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 1,
+            "childTagNames": "<input>",
+            "attributes": {
+                "for": "checkbox1"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "checkbox1",
+                "name": "checkbox",
+                "type": "checkbox",
+                "checked": "checked"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<label>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 1,
+            "childTagNames": "<input>",
+            "attributes": {
+                "for": "checkbox2"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "checkbox2",
+                "name": "checkbox",
+                "type": "checkbox"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<label>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 1,
+            "childTagNames": "<input>",
+            "attributes": {
+                "for": "checkbox3"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "checkbox3",
+                "name": "checkbox",
+                "type": "checkbox"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 4,
+            "childTagNames": "<legend>, <ul>",
+            "attributes": {
+                "id": "forms__radio"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 3,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<label>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 1,
+            "childTagNames": "<input>",
+            "attributes": {
+                "for": "radio1"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "radio1",
+                "name": "radio",
+                "type": "radio",
+                "checked": "checked"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<label>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 1,
+            "childTagNames": "<input>",
+            "attributes": {
+                "for": "radio2"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "radio2",
+                "name": "radio",
+                "type": "radio"
+            }
+        },
+        {
+            "tagName": "li",
+            "depth": 2,
+            "childTagNames": "<label>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 1,
+            "childTagNames": "<input>",
+            "attributes": {
+                "for": "radio3"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "radio3",
+                "name": "radio",
+                "type": "radio"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 2,
+            "childTagNames": "<legend>, <p>",
+            "attributes": {
+                "id": "forms__textareas"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <textarea>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "textarea"
+            }
+        },
+        {
+            "tagName": "textarea",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "id": "textarea",
+                "rows": "8",
+                "cols": "48",
+                "placeholder": "Enter your message here"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 3,
+            "childTagNames": "<legend>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>, <p>",
+            "attributes": {
+                "id": "forms__html5"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "ic"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "color",
+                "id": "ic",
+                "value": "#000000"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "in"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "number",
+                "id": "in",
+                "min": "0",
+                "max": "10",
+                "value": "5"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "ir"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "range",
+                "id": "ir",
+                "value": "10"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "idd"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "date",
+                "id": "idd",
+                "value": "1970-01-01"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "idm"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "month",
+                "id": "idm",
+                "value": "1970-01"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "idw"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "week",
+                "id": "idw",
+                "value": "1970-W01"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "idt"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "datetime",
+                "id": "idt",
+                "value": "1970-01-01T00:00:00Z"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<label>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "idtl"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "datetime-local",
+                "id": "idtl",
+                "value": "1970-01-01T00:00"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 2,
+            "childTagNames": "<label>, <input>, <datalist>",
+            "attributes": {}
+        },
+        {
+            "tagName": "label",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "for": "idl"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "text",
+                "id": "idl",
+                "list": "example-list"
+            }
+        },
+        {
+            "tagName": "datalist",
+            "depth": 1,
+            "childTagNames": "<option>, <option>, <option>",
+            "attributes": {
+                "id": "example-list"
+            }
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "value": "Example #1"
+            }
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "value": "Example #2"
+            }
+        },
+        {
+            "tagName": "option",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "value": "Example #3"
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "fieldset",
+            "depth": 2,
+            "childTagNames": "<legend>, <p>, <p>",
+            "attributes": {
+                "id": "forms__action"
+            }
+        },
+        {
+            "tagName": "legend",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<input>, <input>, <input>, <input>",
+            "attributes": {}
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "submit",
+                "value": "<input type=submit>"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "button",
+                "value": "<input type=button>"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "reset",
+                "value": "<input type=reset>"
+            }
+        },
+        {
+            "tagName": "input",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "submit",
+                "value": "<input disabled>",
+                "disabled": ""
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<button>, <button>, <button>, <button>",
+            "attributes": {}
+        },
+        {
+            "tagName": "button",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "submit"
+            }
+        },
+        {
+            "tagName": "button",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "button"
+            }
+        },
+        {
+            "tagName": "button",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "reset"
+            }
+        },
+        {
+            "tagName": "button",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "button",
+                "disabled": ""
+            }
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "#top"
+            }
+        },
+        {
+            "tagName": "footer",
+            "depth": 2,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>, <a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "http://twitter.com/cbracco"
+            }
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "http://github.com/cbracco/html5-test-page"
+            }
+        }
+    ]
+}

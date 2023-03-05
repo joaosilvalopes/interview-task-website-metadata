@@ -1,0 +1,208 @@
+{
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "title": 1,
+        "meta": 2,
+        "body": 1,
+        "header": 1,
+        "h1": 1,
+        "nav": 1,
+        "ul": 2,
+        "li": 6,
+        "a": 6,
+        "main": 1,
+        "section": 2,
+        "h2": 2,
+        "p": 2,
+        "footer": 1
+    },
+    "tagDetails": [
+        {
+            "tagName": "html",
+            "depth": 6,
+            "childTagNames": "<head>, <body>",
+            "attributes": {}
+        },
+        {
+            "tagName": "head",
+            "depth": 1,
+            "childTagNames": "<title>, <meta>, <meta>",
+            "attributes": {}
+        },
+        {
+            "tagName": "title",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "charset": "UTF-8" }
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "content": "width=device-width, initial-scale=1.0", "name": "viewport" }
+        },
+        {
+            "tagName": "body",
+            "depth": 5,
+            "childTagNames": "<header>, <main>, <footer>",
+            "attributes": {}
+        },
+        {
+            "tagName": "header",
+            "depth": 4,
+            "childTagNames": "<h1>, <nav>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "nav",
+            "depth": 3,
+            "childTagNames": "<ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 2,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "main",
+            "depth": 4,
+            "childTagNames": "<section>, <section>",
+            "attributes": {}
+        },
+        {
+            "tagName": "section",
+            "depth": 1,
+            "childTagNames": "<h2>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "section",
+            "depth": 3,
+            "childTagNames": "<h2>, <ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h2",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 2,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "li",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": { "href": "#" }
+        },
+        {
+            "tagName": "footer",
+            "depth": 1,
+            "childTagNames": "<p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "title": 1,
+        "meta": 3,
+        "style": 1,
+        "body": 1,
+        "div": 1,
+        "h1": 1,
+        "p": 2,
+        "a": 1
+    },
+    "tagDetails": [
+        {
+            "tagName": "html",
+            "depth": 4,
+            "childTagNames": "<head>, <body>",
+            "attributes": {}
+        },
+        {
+            "tagName": "head",
+            "depth": 1,
+            "childTagNames": "<title>, <meta>, <meta>, <meta>, <style>",
+            "attributes": {}
+        },
+        {
+            "tagName": "title",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "charset": "utf-8"
+            }
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "http-equiv": "Content-type",
+                "content": "text/html; charset=utf-8"
+            }
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=1"
+            }
+        },
+        {
+            "tagName": "style",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "type": "text/css"
+            }
+        },
+        {
+            "tagName": "body",
+            "depth": 3,
+            "childTagNames": "<div>",
+            "attributes": {}
+        },
+        {
+            "tagName": "div",
+            "depth": 2,
+            "childTagNames": "<h1>, <p>, <p>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 1,
+            "childTagNames": "<a>",
+            "attributes": {}
+        },
+        {
+            "tagName": "a",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "href": "https://www.iana.org/domains/example"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "tagCount": {
+        "html": 1,
+        "head": 1,
+        "meta": 1,
+        "title": 1,
+        "body": 1,
+        "h1": 1,
+        "p": 1,
+        "ul": 1,
+        "li": 3
+    },
+    "tagDetails": [
+        {
+            "tagName": "html",
+            "depth": 3,
+            "childTagNames": "<head>, <body>",
+            "attributes": {
+                "lang": "en"
+            }
+        },
+        {
+            "tagName": "head",
+            "depth": 1,
+            "childTagNames": "<meta>, <title>",
+            "attributes": {}
+        },
+        {
+            "tagName": "meta",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {
+                "charset": "UTF-8"
+            }
+        },
+        {
+            "tagName": "title",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "body",
+            "depth": 2,
+            "childTagNames": "<h1>, <p>, <ul>",
+            "attributes": {}
+        },
+        {
+            "tagName": "h1",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "p",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "ul",
+            "depth": 1,
+            "childTagNames": "<li>, <li>, <li>",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        },
+        {
+            "tagName": "li",
+            "depth": 0,
+            "childTagNames": "",
+            "attributes": {}
+        }
+    ]
+}
