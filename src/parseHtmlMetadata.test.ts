@@ -18,6 +18,7 @@ const testParseHtmlMetadata = (input: string, expectedOutput: ReturnType<typeof 
 
   expect(metadata.tagDetails).toEqual(expectedOutput.tagDetails);
   expectArrayEqualsIgnoreOrder(metadata.tagDetails, expectedOutput.tagDetails);
+  expectArrayEqualsIgnoreOrder(metadata.resources, expectedOutput.resources);
 };
 
 describe('parseHtmlMetadata', () => {

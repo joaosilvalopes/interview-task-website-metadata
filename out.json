@@ -14,93 +14,94 @@
     "tagDetails": [
         {
             "tagName": "html",
+            "attributes": {},
             "depth": 4,
-            "childTagNames": "<head>, <body>",
-            "attributes": {}
+            "childTagNames": "head, body"
         },
         {
             "tagName": "head",
+            "attributes": {},
             "depth": 1,
-            "childTagNames": "<title>, <meta>, <meta>, <meta>, <style>",
-            "attributes": {}
+            "childTagNames": "title, meta, meta, meta, style"
         },
         {
             "tagName": "title",
+            "attributes": {},
             "depth": 0,
-            "childTagNames": "",
-            "attributes": {}
+            "childTagNames": ""
         },
         {
             "tagName": "meta",
-            "depth": 0,
-            "childTagNames": "",
             "attributes": {
                 "charset": "utf-8"
-            }
+            },
+            "depth": 0,
+            "childTagNames": ""
         },
         {
             "tagName": "meta",
-            "depth": 0,
-            "childTagNames": "",
             "attributes": {
                 "http-equiv": "Content-type",
                 "content": "text/html; charset=utf-8"
-            }
+            },
+            "depth": 0,
+            "childTagNames": ""
         },
         {
             "tagName": "meta",
-            "depth": 0,
-            "childTagNames": "",
             "attributes": {
                 "name": "viewport",
                 "content": "width=device-width, initial-scale=1"
-            }
+            },
+            "depth": 0,
+            "childTagNames": ""
         },
         {
             "tagName": "style",
-            "depth": 0,
-            "childTagNames": "",
             "attributes": {
                 "type": "text/css"
-            }
+            },
+            "depth": 0,
+            "childTagNames": ""
         },
         {
             "tagName": "body",
+            "attributes": {},
             "depth": 3,
-            "childTagNames": "<div>",
-            "attributes": {}
+            "childTagNames": "div"
         },
         {
             "tagName": "div",
+            "attributes": {},
             "depth": 2,
-            "childTagNames": "<h1>, <p>, <p>",
-            "attributes": {}
+            "childTagNames": "h1, p, p"
         },
         {
             "tagName": "h1",
+            "attributes": {},
             "depth": 0,
-            "childTagNames": "",
-            "attributes": {}
+            "childTagNames": ""
         },
         {
             "tagName": "p",
+            "attributes": {},
             "depth": 0,
-            "childTagNames": "",
-            "attributes": {}
+            "childTagNames": ""
         },
         {
             "tagName": "p",
+            "attributes": {},
             "depth": 1,
-            "childTagNames": "<a>",
-            "attributes": {}
+            "childTagNames": "a"
         },
         {
             "tagName": "a",
-            "depth": 0,
-            "childTagNames": "",
             "attributes": {
                 "href": "https://www.iana.org/domains/example"
-            }
+            },
+            "depth": 0,
+            "childTagNames": ""
         }
-    ]
+    ],
+    "resources": []
 }

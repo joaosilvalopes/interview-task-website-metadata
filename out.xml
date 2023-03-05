@@ -2,752 +2,103 @@
     <tagCount>
         <html>1</html>
         <head>1</head>
-        <meta>2</meta>
         <title>1</title>
-        <script>9</script>
-        <style>2</style>
+        <meta>3</meta>
+        <style>1</style>
         <body>1</body>
-        <div>12</div>
-        <nobr>2</nobr>
-        <b>1</b>
-        <a>18</a>
-        <u>1</u>
-        <span>8</span>
-        <center>1</center>
-        <br>5</br>
-        <img>2</img>
-        <form>1</form>
-        <table>1</table>
-        <tbody>1</tbody>
-        <tr>1</tr>
-        <td>3</td>
-        <input>10</input>
-        <p>1</p>
+        <div>1</div>
+        <h1>1</h1>
+        <p>2</p>
+        <a>1</a>
     </tagCount>
     <tagDetails>
         <tagName>html</tagName>
-        <depth>10</depth>
-        <childTagNames>&lt;head&gt;, &lt;body&gt;</childTagNames>
-        <attributes>
-            <itemscope/>
-            <itemtype>http://schema.org/WebPage</itemtype>
-            <lang>pt-PT</lang>
-        </attributes>
+        <attributes/>
+        <depth>4</depth>
+        <childTagNames>head, body</childTagNames>
     </tagDetails>
     <tagDetails>
         <tagName>head</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;meta&gt;, &lt;meta&gt;, &lt;title&gt;, &lt;script&gt;, &lt;style&gt;, &lt;style&gt;, &lt;script&gt;</childTagNames>
         <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>meta</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <content>text/html; charset=UTF-8</content>
-            <http-equiv>Content-Type</http-equiv>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>meta</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <content>/images/branding/googleg/1x/googleg_standard_color_128dp.png</content>
-            <itemprop>image</itemprop>
-        </attributes>
+        <depth>1</depth>
+        <childTagNames>title, meta, meta, meta, style</childTagNames>
     </tagDetails>
     <tagDetails>
         <tagName>title</tagName>
+        <attributes/>
         <depth>0</depth>
         <childTagNames/>
-        <attributes/>
     </tagDetails>
     <tagDetails>
-        <tagName>script</tagName>
+        <tagName>meta</tagName>
+        <attributes>
+            <charset>utf-8</charset>
+        </attributes>
         <depth>0</depth>
         <childTagNames/>
+    </tagDetails>
+    <tagDetails>
+        <tagName>meta</tagName>
         <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
+            <http-equiv>Content-type</http-equiv>
+            <content>text/html; charset=utf-8</content>
         </attributes>
+        <depth>0</depth>
+        <childTagNames/>
+    </tagDetails>
+    <tagDetails>
+        <tagName>meta</tagName>
+        <attributes>
+            <name>viewport</name>
+            <content>width=device-width, initial-scale=1</content>
+        </attributes>
+        <depth>0</depth>
+        <childTagNames/>
     </tagDetails>
     <tagDetails>
         <tagName>style</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>style</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
         <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
+            <type>text/css</type>
         </attributes>
+        <depth>0</depth>
+        <childTagNames/>
     </tagDetails>
     <tagDetails>
         <tagName>body</tagName>
-        <depth>9</depth>
-        <childTagNames>&lt;script&gt;, &lt;div&gt;, &lt;center&gt;, &lt;script&gt;, &lt;script&gt;, &lt;script&gt;</childTagNames>
-        <attributes>
-            <bgcolor>#fff</bgcolor>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>4</depth>
-        <childTagNames>&lt;div&gt;, &lt;div&gt;, &lt;div&gt;, &lt;div&gt;</childTagNames>
-        <attributes>
-            <id>mngb</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
+        <attributes/>
         <depth>3</depth>
-        <childTagNames>&lt;nobr&gt;</childTagNames>
-        <attributes>
-            <id>gbar</id>
-        </attributes>
+        <childTagNames>div</childTagNames>
     </tagDetails>
     <tagDetails>
-        <tagName>nobr</tagName>
+        <tagName>div</tagName>
+        <attributes/>
         <depth>2</depth>
-        <childTagNames>&lt;b&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;</childTagNames>
+        <childTagNames>h1, p, p</childTagNames>
+    </tagDetails>
+    <tagDetails>
+        <tagName>h1</tagName>
         <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>b</tagName>
         <depth>0</depth>
         <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://www.google.pt/imghp?hl=pt-PT&amp;tab=wi</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://maps.google.pt/maps?hl=pt-PT&amp;tab=wl</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://play.google.com/?hl=pt-PT&amp;tab=w8</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://www.youtube.com/?tab=w1</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://news.google.com/?tab=wn</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://mail.google.com/mail/?tab=wm</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gb1</class>
-            <href>https://drive.google.com/?tab=wo</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;u&gt;</childTagNames>
-        <attributes>
-            <class>gb1</class>
-            <style>text-decoration:none</style>
-            <href>https://www.google.pt/intl/pt-PT/about/products?tab=wh</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>u</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>2</depth>
-        <childTagNames>&lt;nobr&gt;</childTagNames>
-        <attributes>
-            <id>guser</id>
-            <width>100%</width>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>nobr</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;span&gt;, &lt;span&gt;, &lt;span&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;</childTagNames>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <id>gbn</id>
-            <class>gbi</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <id>gbf</id>
-            <class>gbf</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <id>gbe</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>http://www.google.pt/history/optout?hl=pt-PT</href>
-            <class>gb4</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>/preferences?hl=pt-PT</href>
-            <class>gb4</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <target>_top</target>
-            <id>gb_70</id>
-            <href>https://accounts.google.com/ServiceLogin?hl=pt-PT&amp;passive=true&amp;continue=https://www.google.com/&amp;ec=GAZAAQ</href>
-            <class>gb4</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gbh</class>
-            <style>left:0</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>gbh</class>
-            <style>right:0</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>center</tagName>
-        <depth>8</depth>
-        <childTagNames>&lt;br&gt;, &lt;div&gt;, &lt;form&gt;, &lt;div&gt;, &lt;div&gt;, &lt;span&gt;</childTagNames>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>br</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <clear>all</clear>
-            <id>lgpd</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;img&gt;, &lt;br&gt;, &lt;br&gt;</childTagNames>
-        <attributes>
-            <id>lga</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>img</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <alt>Google</alt>
-            <height>92</height>
-            <src>/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png</src>
-            <style>padding:28px 0 14px</style>
-            <width>272</width>
-            <id>hplogo</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>br</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>br</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>form</tagName>
-        <depth>7</depth>
-        <childTagNames>&lt;table&gt;, &lt;input&gt;, &lt;script&gt;</childTagNames>
-        <attributes>
-            <action>/search</action>
-            <name>f</name>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>table</tagName>
-        <depth>6</depth>
-        <childTagNames>&lt;tbody&gt;</childTagNames>
-        <attributes>
-            <cellpadding>0</cellpadding>
-            <cellspacing>0</cellspacing>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>tbody</tagName>
-        <depth>5</depth>
-        <childTagNames>&lt;tr&gt;</childTagNames>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>tr</tagName>
-        <depth>4</depth>
-        <childTagNames>&lt;td&gt;, &lt;td&gt;, &lt;td&gt;</childTagNames>
-        <attributes>
-            <valign>top</valign>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>td</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <width>25%</width>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>td</tagName>
-        <depth>3</depth>
-        <childTagNames>&lt;input&gt;, &lt;input&gt;, &lt;input&gt;, &lt;input&gt;, &lt;input&gt;, &lt;div&gt;, &lt;br&gt;, &lt;span&gt;, &lt;span&gt;</childTagNames>
-        <attributes>
-            <align>center</align>
-            <nowrap/>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <name>ie</name>
-            <value>ISO-8859-1</value>
-            <type>hidden</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <value>pt-PT</value>
-            <name>hl</name>
-            <type>hidden</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <name>source</name>
-            <type>hidden</type>
-            <value>hp</value>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <name>biw</name>
-            <type>hidden</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <name>bih</name>
-            <type>hidden</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>2</depth>
-        <childTagNames>&lt;div&gt;</childTagNames>
-        <attributes>
-            <class>ds</class>
-            <style>height:32px;margin:4px 0</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;input&gt;, &lt;img&gt;, &lt;script&gt;</childTagNames>
-        <attributes>
-            <style>position:relative;zoom:1</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>lst Ucigb</class>
-            <style>margin:0;padding:5px 8px 0 6px;vertical-align:top;color:#000;padding-right:38px</style>
-            <autocomplete>off</autocomplete>
-            <value/>
-            <title>Pesquisa Google</title>
-            <maxlength>2048</maxlength>
-            <name>q</name>
-            <size>57</size>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>img</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <src>/textinputassistant/tia.png</src>
-            <style>position:absolute;cursor:pointer;right:5px;top:4px;z-index:300</style>
-            <data-script-url>/textinputassistant/11/pt-PT_tia.js</data-script-url>
-            <id>tsuid_1</id>
-            <alt/>
-            <height>23</height>
-            <width>27</width>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>br</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <style>line-height:0</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>2</depth>
-        <childTagNames>&lt;span&gt;</childTagNames>
-        <attributes>
-            <class>ds</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;input&gt;</childTagNames>
-        <attributes>
-            <class>lsbb</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>lsb</class>
-            <value>Pesquisa Google</value>
-            <name>btnG</name>
-            <type>submit</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>2</depth>
-        <childTagNames>&lt;span&gt;</childTagNames>
-        <attributes>
-            <class>ds</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;input&gt;, &lt;script&gt;, &lt;input&gt;</childTagNames>
-        <attributes>
-            <class>lsbb</class>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <class>lsb</class>
-            <id>tsuid_2</id>
-            <value>Sinto-me com sorte</value>
-            <name>btnI</name>
-            <type>submit</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <value>AK50M_UAAAAAZAPWXKwiJaszmszOYzRe-O6s06fSgvj4</value>
-            <name>iflsig</name>
-            <type>hidden</type>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>td</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;a&gt;</childTagNames>
-        <attributes>
-            <class>fl sblc</class>
-            <align>left</align>
-            <nowrap/>
-            <width>25%</width>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>/advanced_search?hl=pt-PT&amp;authuser=0</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>input</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <id>gbv</id>
-            <name>gbv</name>
-            <type>hidden</type>
-            <value>1</value>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <id>gac_scont</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;br&gt;</childTagNames>
-        <attributes>
-            <style>font-size:83%;min-height:3.5em</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>br</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes/>
-    </tagDetails>
-    <tagDetails>
-        <tagName>span</tagName>
-        <depth>3</depth>
-        <childTagNames>&lt;div&gt;, &lt;p&gt;</childTagNames>
-        <attributes>
-            <id>footer</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>2</depth>
-        <childTagNames>&lt;div&gt;</childTagNames>
-        <attributes>
-            <style>font-size:10pt</style>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>div</tagName>
-        <depth>1</depth>
-        <childTagNames>&lt;a&gt;, &lt;a&gt;, &lt;a&gt;, &lt;a&gt;</childTagNames>
-        <attributes>
-            <style>margin:19px auto;text-align:center</style>
-            <id>WqQANb</id>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>/intl/pt-PT/ads/</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>http://www.google.pt/intl/pt-PT/services/</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>/intl/pt-PT/about.html</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>https://www.google.com/setprefdomain?prefdom=PT&amp;prev=https://www.google.pt/&amp;sig=K_9_EuRRcu1Fn-UltlgBspkX1Z0ZM%3D</href>
-        </attributes>
     </tagDetails>
     <tagDetails>
         <tagName>p</tagName>
+        <attributes/>
+        <depth>0</depth>
+        <childTagNames/>
+    </tagDetails>
+    <tagDetails>
+        <tagName>p</tagName>
+        <attributes/>
         <depth>1</depth>
-        <childTagNames>&lt;a&gt;, &lt;a&gt;</childTagNames>
-        <attributes>
-            <style>font-size:8pt;color:#70757a</style>
-        </attributes>
+        <childTagNames>a</childTagNames>
     </tagDetails>
     <tagDetails>
         <tagName>a</tagName>
+        <attributes>
+            <href>https://www.iana.org/domains/example</href>
+        </attributes>
         <depth>0</depth>
         <childTagNames/>
-        <attributes>
-            <href>/intl/pt-PT/policies/privacy/</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>a</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <href>/intl/pt-PT/policies/terms/</href>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
-    </tagDetails>
-    <tagDetails>
-        <tagName>script</tagName>
-        <depth>0</depth>
-        <childTagNames/>
-        <attributes>
-            <nonce>wXncllANin0qhSBupqH8rQ</nonce>
-        </attributes>
     </tagDetails>
 </metadata>
