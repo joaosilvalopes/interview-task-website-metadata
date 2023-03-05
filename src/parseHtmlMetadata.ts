@@ -18,7 +18,13 @@ type ParsedHtmlMetadata = {
 
 const externalResourceTagNames = new Set(['img', 'script', 'source']);
 
-function parseHtmlMetadata(html: string) {
+/**
+ * Parses html metadata
+ *
+ * @param html - The input html string
+ * @returns the parsed data
+ */
+const parseHtmlMetadata = (html: string) => {
   const out: ParsedHtmlMetadata = {
     tagCount: {},
     tagDetails: [],
